@@ -82,13 +82,13 @@ Developed an AI-driven Decision Support System (DSS) for analyzing Twitter data 
 - **First Runner-Up**: Treasure Hunt Competition
 - **Research Paper Presenter**: - International Conference on Electrical, Electronics, and Computing Technologies 
                                 - 1st International Conference on Advances in Computational Intelligence
-                                
-                                
+-**Publications**: Research Paper Published
+                   DOI: https://doi.org/10.1109/ICEECT61758.2024.10739117
+                                  
 ## 📫 How to Reach Me
 
 - **Email**: kalika.pokhriyal@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/kalika-pokhriyal-87486b249/
-- 
+
 
 ## 🌐 More About Me
 
